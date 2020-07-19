@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication 004 config",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnet core webapi demo", "..\aspnet core webapi demo\aspnet core webapi demo.csproj", "{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication 005 employee api", "..\WebApplication 005 employee api\WebApplication 005 employee api.csproj", "{8CF96BC9-C00D-4049-9E93-9E61085F3F38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF96BC9-C00D-4049-9E93-9E61085F3F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF96BC9-C00D-4049-9E93-9E61085F3F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF96BC9-C00D-4049-9E93-9E61085F3F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF96BC9-C00D-4049-9E93-9E61085F3F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

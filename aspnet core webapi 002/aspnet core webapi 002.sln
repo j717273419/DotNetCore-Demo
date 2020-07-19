@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet core webapi 002", "aspnet core webapi 002.csproj", "{58D6AA36-720B-4959-B4CF-ED225205940A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnet core webapi 002", "aspnet core webapi 002.csproj", "{58D6AA36-720B-4959-B4CF-ED225205940A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication 003", "..\WebApplication 003\WebApplication 003.csproj", "{6365BF3B-D99F-42D4-94F9-7D716F467DE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication 003", "..\WebApplication 003\WebApplication 003.csproj", "{6365BF3B-D99F-42D4-94F9-7D716F467DE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication 004 config", "..\WebApplication 004\WebApplication 004 config.csproj", "{9A1A3D74-C887-4563-8299-5B03BFFD1544}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnet core webapi demo", "..\aspnet core webapi demo\aspnet core webapi demo.csproj", "{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{6365BF3B-D99F-42D4-94F9-7D716F467DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6365BF3B-D99F-42D4-94F9-7D716F467DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6365BF3B-D99F-42D4-94F9-7D716F467DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A1A3D74-C887-4563-8299-5B03BFFD1544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1A3D74-C887-4563-8299-5B03BFFD1544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1A3D74-C887-4563-8299-5B03BFFD1544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1A3D74-C887-4563-8299-5B03BFFD1544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E95E0A-370A-4C28-98E5-0A54F8316ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

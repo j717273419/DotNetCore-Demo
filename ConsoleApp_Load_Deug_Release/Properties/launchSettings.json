@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp_Load_Deug_Release": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NETCORE_ENVIRONMENT_Demo": "DEV"
+      }
+    }
+  }
+}
